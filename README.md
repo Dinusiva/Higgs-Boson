@@ -1,4 +1,4 @@
-# Higgs-Boson# the-Higgs-boson-machine-learning-challenge
+# Higgs-Boson
 Detecting the Higgs Boson using RNN (LSTM)
 
 ## Dataset details
